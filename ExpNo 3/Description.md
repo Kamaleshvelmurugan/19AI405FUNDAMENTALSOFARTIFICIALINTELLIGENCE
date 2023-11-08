@@ -1,6 +1,6 @@
 # Exp no 03 : IMPLEMENT A* SEARCH ALGORITHM FOR A GRAPH 
-## NAME : Mohanish K
-## REGISTER NUMBER : 212222100028
+## NAME : Kamalesh V
+## REGISTER NUMBER : 212222240042
 ## AIM:
 To Implement A * Search algorithm for a Graph using Python 3.
 ## ALGORITHM: 

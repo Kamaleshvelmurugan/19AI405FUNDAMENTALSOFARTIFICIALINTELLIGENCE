@@ -1,6 +1,6 @@
 # Exp no 08 : SOLVE WUMPUS WORLD PROBLEM USING PYTHON DEMONSTRATING INFERENCES FROM PROPOSITIONAL LOGIC
-## NAME : Mohanish K
-## REGISTER NUMBER : 212222100028
+## NAME : Kamalesh V
+## REGISTER NUMBER : 212222240042
 ## AIM:
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic

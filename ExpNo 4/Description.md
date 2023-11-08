@@ -1,6 +1,6 @@
 # Exp no 04 : IMPLEMENT SIMPLE HILL CLIMBING ALGORITHM
-## NAME : Mohanish K
-## REGISTER NUMBER : 212222100028
+## NAME : Kamalesh V
+## REGISTER NUMBER : 212222240042
 ## AIM:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration.
 ## THEORY:

@@ -1,6 +1,6 @@
 # Exp no 07 : SOLVE CRYPT ARITHMETIC PROBLEM, A CSP(CONSTRAINT SATISFACTION PROBLEM)
-## NAME : Mohanish K
-## REGISTER NUMBER : 212222100028
+## NAME : Kamalesh V
+## REGISTER NUMBER : 212222240042
 ## AIM:
 
    To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python

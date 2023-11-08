@@ -1,6 +1,6 @@
 # Exp no 05 : IMPLEMENT MIN-MAX SEARCH ALGORITHM FOR A SIMPLE TIC-TAC-TOE GAME
-## NAME : Mohanish K
-## REGISTER NUMBER : 212222100028
+## NAME : Kamalesh V
+## REGISTER NUMBER : 212222240042
 ## AIM:
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game

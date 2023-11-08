@@ -1,6 +1,6 @@
 # Exp no 01 : IMPLEMENT DEPTH FIRST SEARCH TRAVERSAL OF A GRAPH
-## NAME : Mohanish K
-## REGISTER NUMBER : 212222100028
+## NAME : Kamalesh V
+## REGISTER NUMBER : 212222240042
 ## AIM:
 To Implement Depth First Search Traversal of a Graph using Python 3.
 ## THEORY:
